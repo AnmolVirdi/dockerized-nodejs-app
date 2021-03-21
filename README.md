@@ -1,4 +1,4 @@
-# To containerize this app, follow these steps
+## to containerize this app, follow these steps
 
 ### Make sure you are in node-js-app folder on your system
 
