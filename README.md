@@ -1,8 +1,8 @@
-
+ 
 ## to containerize this app, follow these steps
 
 ### make sure you are in node-js-app folder on your system
-
+   
 ```
 docker build -t node-app-image .
 ```
