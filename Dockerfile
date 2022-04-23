@@ -1,6 +1,6 @@
 FROM alpine
 LABEL maintainer="https://github.com/mahartariq"
-RUN apk add --update nodejs nodejs-npm
+RUN apk add --update nodejs npm
 COPY . /src
 WORKDIR /src
 RUN npm install
